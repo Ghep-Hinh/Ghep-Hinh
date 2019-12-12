@@ -1,0 +1,43 @@
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+d:\documents\visual studio 2015\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+E:\Lập trình boy\File nộp\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+E:\IT\LT window\CUỐI KỲ\15110229_LeTanKhang\Đợt 1\C#\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\21AK22\Downloads\c#\Puzzleaa\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\21AK22\Downloads\c#\game_puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\21AK22\Downloads\c#\game_puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\21AK22\Downloads\c#\game_puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\21AK22\Desktop\Ghep-Hinh\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\21AK22\Desktop\Ghep-Hinh\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\21AK22\Desktop\Ghep-Hinh\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
